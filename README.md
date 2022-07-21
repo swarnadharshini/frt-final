@@ -1,5 +1,5 @@
 # frt-final
-#azure link https://delightful-cliff-0f838e010.1.azurestaticapps.net
+#azure link https://salmon-cliff-0cd744a10.1.azurestaticapps.net/
 
 Yoga is one of the solutions for emotional stability and leading a peaceful life, so to overcome and living the life to the fullest, it is a website with a chat bot to learn about yoga and to ask the questions whenever needed
 
