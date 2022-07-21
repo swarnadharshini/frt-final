@@ -1,2 +1,2 @@
 # frt-final
-#azure link https://nice-sea-05bec8410.1.azurestaticapps.net
+#azure link https://delightful-cliff-0f838e010.1.azurestaticapps.net
