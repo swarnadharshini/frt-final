@@ -18,7 +18,8 @@ Due to the lockdown, everyone went into depression and out of their track. Whate
 #CONTACT
 ![Screenshot (53)](https://user-images.githubusercontent.com/75712774/180233187-dc10d245-3a5f-4018-a2b8-088a2f009db6.png)
 #FAQ-BOT
-![Screenshot (54)](https://user-images.githubusercontent.com/75712774/180233235-6c467019-84a4-4a84-a2fd-e90c83a58189.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/75712774/180234704-fb87b22e-9cce-4edd-8867-6311659046dd.png)
+
 
 AZURE SCREENSHOTS
 #STATIC WEB APPS
